@@ -1,0 +1,97 @@
+.Mygame{
+    height: 235px;
+    width: 232.6px;
+    background-color: #FAFBFC;
+    border-radius: 15px;
+}
+
+.Mygame2{
+    height: 235px;
+    width: 232.6px;
+    background-color: #301C57;
+    border-radius: 15px;
+} 
+
+.img{
+    margin-left: 17px;
+    margin-top: 8px;
+}
+
+.txt{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.t2{
+    width: 60%;
+    margin-left: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 29px;
+}
+
+.l1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-right: 16px;
+    width: 40%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.d1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 17px;
+    margin-left: 15px;
+}
+
+.foot2{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 15px;
+}
+
+.bttn{
+    width: 70px;
+    height: 20px;
+    background: #4B0ACE;
+    border-radius: 8px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.xyz{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 29px;
+    color: #FFFFFF;
+    text-align: center;  
+}
+
+.white{
+    color: #FFFFFF;
+}
+
+.black{
+    color: #21202B;
+}
+
+.mid{
+    color: #787686;
+}

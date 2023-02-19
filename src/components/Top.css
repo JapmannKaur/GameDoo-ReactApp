@@ -1,0 +1,86 @@
+.contain{
+    width: 723px;
+    height: 271px;
+    background-color: #4B0ACE;
+    border-radius: 20px;
+    margin-left: 70px;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.texts{
+    width: 60%;
+    height: 100%;
+    background-color: #4B0ACE;
+    border-radius: 20px;
+}
+
+.rocket{
+    width: 40%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.udtarocket{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.heading{
+    width: 323px;
+    height: 78px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 39px;
+    color: white;
+    margin-left: 36px;
+    margin-top: 8px;
+}
+
+.desc{
+    width: 189.73px;
+    height: 27px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    margin-left: 36px;
+    margin-top: 37px;
+}
+
+.btn{
+    width: 182px;
+    height: 52px;
+    background: #FFA910;
+    border-radius: 15px;
+    margin-left: 36px;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    border: none;
+}
+
+.btn-text{
+    width: 152px;
+    height: 21px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 29px;
+    color: #21202B;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.diamond{
+    margin-left: 8px;
+}

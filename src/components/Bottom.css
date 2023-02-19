@@ -1,0 +1,36 @@
+.final{
+    width: 723px;
+    height: 508px;
+    position: absolute;
+    top:420px; 
+    left: 352px;
+}
+
+.pop{
+    height: 23px;
+    width: 21.5%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.arrow{
+    width: 17px;
+    height: 8.92px;
+}
+
+.games{
+    height:490px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 3px;
+    column-gap: 10px;
+    padding-top: 10px;
+    padding-left: 2px;
+}
