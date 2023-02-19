@@ -1,18 +1,18 @@
 .App{
     display: flex;
     justify-content: center;
-    background-color: black;
+    overflow-x: hidden;
 }
 
 .left{
-    width: 250px;
+    width: 220px;
     height: 950px;
     background-color: white;
     border-right: 1px solid #F7F7F7;
 }
 
 .right{
-    width: 1280px;
+    width: 1000px;
     height: 950px;
     background-color: #F2F2F2;
 }

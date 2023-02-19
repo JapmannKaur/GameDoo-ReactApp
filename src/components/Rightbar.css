@@ -1,15 +1,20 @@
 .topbars{
     display: flex;
+    flex-direction: column;
+}
+
+.total{
+    display: flex;
 }
 
 .rights{
-    width: 370px;
+    width: 320px;
     height: 815px;
     background: #301C57;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
-    margin-left: 70px;
+    margin-left: 40px;
     margin-top: 25px;
 }
 
@@ -19,9 +24,9 @@
 }
 
 .thumb{
-    width: 315px;
+    width: 290px;
     height: 195px;
-    margin: 15px 8px 0px 27px;
+    margin: 15px 8px 0px 14px;
 }
 
 .t1{
@@ -81,7 +86,7 @@ p{
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
-    font-size: 13px;
+    font-size: 11px;
     line-height: 19px;
     color: white;
 } 

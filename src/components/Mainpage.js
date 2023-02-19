@@ -9,18 +9,19 @@ const Mainpage = () =>{
             <div>
                 <Nav />
             </div>
+            <div className='total'>
             <div className='topbars'>
                 <div>
                     <Top />
                 </div>
                 <div>
-                    <Rightbar />
+                    <Bottom />
                 </div>
             </div>
             <div>
-                <Bottom />
+                <Rightbar />
             </div>
-            
+            </div>
         </div>
     )
 }

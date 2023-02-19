@@ -9,7 +9,7 @@ const Sidebar = () =>{
                 <img src = {s1} />
             </div>
             <div className='dash'>
-                <img src = {s2} />
+                <img src = {s2} className='mydash' />
             </div>
             <div className='sign'>
                 <img src = {s3} className='signimg' />

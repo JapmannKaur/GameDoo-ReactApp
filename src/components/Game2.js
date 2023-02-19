@@ -7,7 +7,7 @@ const Game2 = () =>{
     return(
         <div className='Mygame2'>
             <div className='img'>
-                <img src={s17}/>
+                <img src={s17} className='img2'/>
             </div>
             <div className='txt'>
                 <div className='t2 white'>
