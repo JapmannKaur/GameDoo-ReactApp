@@ -1,3 +1,6 @@
+**This is a non-responsive website page
+Vercel Link: [Gamedoo](https://vercel.com/japmannkaur/game-doo-react-app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
